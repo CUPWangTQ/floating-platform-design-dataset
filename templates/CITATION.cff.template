@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use this dataset, please cite this dataset and the associated paper."
+title: "REPLACE WITH DATASET TITLE"
+authors:
+  - family-names: "REPLACE WITH FAMILY NAME"
+    given-names: "REPLACE WITH GIVEN NAME"
+version: "1.0.0"
+# Complete before renaming to CITATION.cff:
+# date-released: "YYYY-MM-DD"
+# doi: "10.xxxx/REPLACE"
+# url: "https://github.com/OWNER/REPOSITORY"
+# license: "REPLACE WITH CHOSEN LICENSE IDENTIFIER"

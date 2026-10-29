@@ -1,0 +1,66 @@
+[
+  {
+    "file": "optimization_schemes.xlsx",
+    "numeric_cells_verified": 216,
+    "translated_cells": 0,
+    "rows": 36,
+    "data_rows": 36,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "initial_metacentric_height.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "objective_weights.xlsx",
+    "numeric_cells_verified": 216,
+    "translated_cells": 0,
+    "rows": 36,
+    "data_rows": 36,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "platform_weight.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "maximum_heave_motion.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "maximum_towing_resistance.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "maximum_surge_motion.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  },
+  {
+    "file": "minimum_air_gap.xlsx",
+    "numeric_cells_verified": 2226,
+    "translated_cells": 7,
+    "rows": 319,
+    "data_rows": 318,
+    "numeric_values_unchanged": true
+  }
+]

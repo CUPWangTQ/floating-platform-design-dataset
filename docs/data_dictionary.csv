@@ -1,0 +1,55 @@
+file,excel_column,english_label,unit,notes
+optimization_schemes.xlsx,A,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+optimization_schemes.xlsx,B,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+optimization_schemes.xlsx,C,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+optimization_schemes.xlsx,D,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+optimization_schemes.xlsx,E,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+optimization_schemes.xlsx,F,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+initial_metacentric_height.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+initial_metacentric_height.xlsx,H,Initial Metacentric Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+objective_weights.xlsx,A,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+objective_weights.xlsx,B,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+objective_weights.xlsx,C,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+objective_weights.xlsx,D,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+objective_weights.xlsx,E,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+objective_weights.xlsx,F,Not specified in source,Not specified in source,Headerless source; do not infer column identity from numerical values
+platform_weight.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+platform_weight.xlsx,H,Platform Weight,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_heave_motion.xlsx,H,Maximum Heave Motion,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_towing_resistance.xlsx,H,Maximum Towing Resistance,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+maximum_surge_motion.xlsx,H,Maximum Surge Motion,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,A,Float Length,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,B,Float Width,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,C,Float Height,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,D,Float Spacing,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,E,Draft,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,F,Transverse Brace Diameter,Not specified in source,Source header translated; physical definition to be confirmed by authors
+minimum_air_gap.xlsx,H,Minimum Air Gap,Not specified in source,Source header translated; physical definition to be confirmed by authors
