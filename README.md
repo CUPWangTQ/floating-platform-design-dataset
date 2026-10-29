@@ -1,17 +1,14 @@
 # Floating Platform Design and Performance Dataset
 
-English-language data prepared to accompany **[INSERT PAPER TITLE]**.
+English-language data prepared to accompany **[Multi-Objective Optimization for Semi-Submersible Drilling Platform Structures Based on Advanced FAHP-CRITIC Evaluation Method]**.
 
 **Release preparation status:** dataset labels have been translated. Authors must complete the paper metadata, units, variable definitions, and the two headerless dataset descriptions before publication.
 
 ## Related publication
 
-- Authors: [INSERT AUTHORS]
-- Paper title: [INSERT PAPER TITLE]
-- Journal and year: [INSERT JOURNAL AND YEAR]
-- Paper DOI: [INSERT DOI WHEN AVAILABLE]
-- Dataset DOI: [INSERT ZENODO DOI AFTER ARCHIVING]
-- Contact: [INSERT CORRESPONDING AUTHOR CONTACT]
+- Authors: [Jianbo Li, Chen An, Honglin Che, Zhongheng Lai, Jixiang Zhang, Menglan Duan]
+- Paper title: [Multi-Objective Optimization for Semi-Submersible Drilling Platform Structures Based on Advanced FAHP-CRITIC Evaluation Method]
+- Contact: [anchen@cup.edu.cn]
 
 ## Files
 
@@ -62,13 +59,6 @@ weighting_data = pd.read_csv("data/csv/objective_weights.csv", header=None)
 
 To reproduce the paper, supply the model code, preprocessing procedure, train/validation/test indices, random seed, hyperparameters, and software versions. These are not included in the supplied spreadsheets.
 
-## Citation
-
-Complete `templates/CITATION.cff.template` and move it to the repository root as `CITATION.cff`. Cite the archived release used in the paper.
-
-## License
-
-[INSERT THE AUTHORS' CHOSEN DATA LICENSE AND ADD ITS FULL TEXT AS LICENSE.]
 
 ## Version history
 
